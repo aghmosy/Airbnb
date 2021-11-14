@@ -29,7 +29,7 @@ The next part, which is the longest part, preprocesses data to prepare it for an
 The third section answers some questions about the data before the data is used to train a learning model to find out the most influential features on room occupancy.
 
 # Results
-The main findings of the code can be found at the post available [here](https://medium.com/p/e6cf36853261/edit).
+The main findings of the code can be found at the post available [here](https://medium.com/@mrezazad/how-to-make-your-airbnb-room-fully-occupied-e6cf36853261).
 
 # Licensing, Authors, and Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston/data). Otherwise, feel free to use the code here as you would like!
