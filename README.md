@@ -32,4 +32,4 @@ The third section answers some questions about the data before the data is used 
 The main findings of the code can be found at the post available [here](https://medium.com/p/e6cf36853261/edit).
 
 # Licensing, Authors, and Acknowledgements
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/seattle/data). Otherwise, feel free to use the code here as you would like!
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston/data). Otherwise, feel free to use the code here as you would like!
