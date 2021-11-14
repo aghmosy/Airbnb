@@ -8,7 +8,7 @@ In this project I would like to analyze a data set from Airbnb to find out the m
 4. Results
 5. Licensing, Authors, and Acknowledgements
 
-# Instalation
+# Installation
 Would you please install Anaconda if you haven't yet? You need __gmplot__ to see the map on the explorer, but if you don't, it is ok as the code already handles this part for you. You need to add your google map API key if you want to use the results on the google map.
 
 # Project Motivation
