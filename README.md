@@ -30,6 +30,7 @@ The third section answers some questions about the data before the data is used 
 
 # Results
 The main findings of the code can be found at the post available [here](https://medium.com/@mrezazad/how-to-make-your-airbnb-room-fully-occupied-e6cf36853261).
+The code itself can be found in the repository [here](https://github.com/aghmosy/Airbnb/blob/main/Project_1.ipynb).
 
 # Licensing, Authors, and Acknowledgements
 Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston/data). Otherwise, feel free to use the code here as you would like!
